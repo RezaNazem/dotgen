@@ -1,0 +1,23 @@
+{
+  "name": "dotgen-cli",
+  "version": "1.0.2",
+  "description": "Command Line Tools for Generate NET Core Application",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezaNazem/dotgen.git"
+  },
+  "author": "Reza Nazem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RezaNazem/dotgen/issues"
+  },
+  "homepage": "https://github.com/RezaNazem/dotgen#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.1.2"
+  }
+}
