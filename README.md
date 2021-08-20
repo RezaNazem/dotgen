@@ -9,4 +9,5 @@ Command Line Tools for Generate NET Core Application
 </ol>
 
 If all steps are done correctly. must see
-![image](https://user-images.githubusercontent.com/20680997/130285786-d6a06c77-7ca8-425b-a0b2-535a3271f9ec.png)
+![image](https://user-images.githubusercontent.com/20680997/130286646-b21b9522-2052-4a08-b78c-2d8584222eb5.png)
+
